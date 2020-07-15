@@ -1,0 +1,59 @@
+
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(i.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+#header-nav{
+  background-color: rgb(45,6,5);
+  border:0px;
+}
+.navbar .container .navbar-brand {
+    color: #373535;
+    font-size: 40px;
+    margin: 8px 0;
+    font-family: serif;
+    font-weight: bold;
+    color: rgb(200,200,200);
+
+}
+button{
+  color: rgb(0,0,0);
+
+}
+#h{
+  width:200px;
+  background-color: rgb(200,200,20,0.5);
+  margin-left:auto;
+  margin-right: auto;
+  color: white;
+   margin-bottom: 20px;
+}
+.box{
+  background-color: rgb(10,10,10,0.75);
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+
+}
+#c{
+  color: red;
+  text-align: center;
+  font-size: 20px;
+}
+#b{
+  color: red;
+  text-align: center;
+  font-size: 20px;
+}
+#s{
+  color: red;
+  text-align: center;
+  font-size: 20px;
+}
